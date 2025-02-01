@@ -2,7 +2,8 @@
   "name": "wheel-of-food",
   "version": "0.1.0",
   "scripts": {
-    "build": "tsc --watch"
+    "build": "tsc",
+    "start": "tsc --watch"
   },
   "devDependencies": {
     "typescript": "^4.0.0"
